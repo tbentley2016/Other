@@ -1,12 +1,7 @@
-fastai
-absl-py
 dectree
 ipython
-ipython-genutils
 ipywidgets
-lxml
 matplotlib
-notebook
 nbclient
 nbconvert
 numpy
